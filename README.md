@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHIdinMaij
 - 👀 I’m interested in website development
-- 🌱 I’m currently a software engineering @Alx
+- 🌱 I’m currently a software engineering student @Alx
 - 💞️ I’m looking to collaborate on with great minds on website development
 - 📫 How to reach me:
 - ❤️ LinkedIn: https://www.linkedin.com/in/ijeoma-ikechukwu-463251232
